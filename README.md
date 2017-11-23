@@ -170,6 +170,12 @@
 |[Vim笔记](https://github.com/Wscats/Good-text-Share/issues/27)|[Cordova配置&&Ionic配置（WebApp混合开发环境）](https://github.com/Wscats/Good-text-Share/issues/48)|
 |[IE8及以下按钮超链接无法跳转的问题](https://github.com/Wscats/Good-text-Share/issues/33)||
 
+## 工具类
+| some | Tool |
+| ------------- |:-------------:| :-------------:| :-------------:| -----:|
+|[在线JSON字符串转Java实体类](https://www.bejson.com/json2javapojo/new/)||
+|[码云在线工具](http://tool.oschina.net/)||
+
 ## 分享功能
 | Share | Reference |
 | ------------- |:-------------:| :-------------:| :-------------:| -----:|
