@@ -318,4 +318,4 @@
 
 ## 功能工具
 
-|[拖拽功能draggable](https://github.com/Shopify/draggable)| [vue的拖拽插件vue-grid-layout](https://github.com/jbaysolutions/vue-grid-layout)
+|[拖拽功能draggable](https://github.com/Shopify/draggable)| [vue的拖拽插件vue-grid-layout](https://github.com/jbaysolutions/vue-grid-layout)| [微信H5页面-fullpage制作](http://maka.im/about.html) 
