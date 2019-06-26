@@ -13,7 +13,7 @@
 
 ## HTML
 | Article | Article |
-| ------------- |:-------------:| :-------------:| :-------------:| -----:|
+| ------------- | ------------- | -------------|
 [HTML5有哪些让你惊艳的demo](http://www.zhihu.com/question/24398907)|[Wallpaperbetter](http://www.wallpaperbetter.com/)|
 
 ## Angular
