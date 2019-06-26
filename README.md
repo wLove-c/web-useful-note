@@ -97,27 +97,22 @@ Article | Article | Angular文档 |Article | Article
 
 
 ## Javascript
-| Article | Article |
-| ------------- |:-------------:| :-------------:| :-------------:| -----:|
-|[Javascript深浅拷贝](https://github.com/Wscats/Good-text-Share/issues/57)|[Javascript中的apply和call继承](https://github.com/Wscats/Good-text-Share/issues/56)|
-|[Javascript的jsonp原理](https://github.com/Wscats/Good-text-Share/issues/55)|[Javascript监听触摸事件](https://github.com/Wscats/Good-text-Share/issues/49)|
-|[Javascript中的var self = this](https://github.com/Wscats/Good-text-Share/issues/52)|[Javascript面向对象编程](https://github.com/Wscats/Good-text-Share/issues/32)|
-|[Javascript滑屏切换场景](https://github.com/Wscats/Good-text-Share/issues/14)|[Javascript获取经纬度，关于调用百度API的问题](https://github.com/Wscats/Good-text-Share/issues/16)|
-|[妙用Javascript运算符](https://github.com/Wscats/Good-text-Share/issues/3)|[深入理解Javascript函数编程](https://github.com/Wscats/Good-text-Share/issues/1)|
-|[Javascript的setTimeout详细用例](https://github.com/Wscats/Good-text-Share/issues/4)|[sessionstorage，localstorage和cookie](https://github.com/Wscats/Good-text-Share/issues/42)|
-|[JS日期对比](https://github.com/Wscats/Good-text-Share/issues/11)|[JSONP参考文章](https://github.com/Wscats/Good-text-Share/issues/10)|
-|[Javascript的createElement](https://wscats.github.io/angular-demo/createElement.html)|[Javascript的createDocumentFragment](https://wscats.github.io/angular-demo/createDocumentFragment.html)|
-|[sessionStorage和localStorage](https://wscats.github.io/angular-demo/sessionStoragelocalStorage.html)|[像素帧动画](https://wscats.github.io/angular-demo/像素动画.html)|
-| **Reference** | **Reference** |
-|[收集最全前端学习资料](https://github.com/windiest/Front-end-tutorial)|[最全前端教程-猫的回忆录](https://github.com/Wscats/Good-text-Share)|
-|[JavaScript中的this陷阱的最全收集--没有之一](https://segmentfault.com/a/1190000002640298)|[JS函数式编程指南](https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/ch1.html)|
-|[JavaScript Promise迷你书（中文版）](http://liubin.github.io/promises-book)|[阮一峰 Javascript](http://javascript.ruanyifeng.com)|
-|[前端 TOP 100](https://www.awesomes.cn/rank)|[小白的零基础JavaScript全栈教程](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)|
+| Javascript | Article |Javascript|Article
+ :-------------:| :-------------:| :-------------:| :-------------:
+[Javascript深浅拷贝](https://github.com/Wscats/Good-text-Share/issues/57)|[Javascript中的apply和call继承](https://juejin.im/post/5d0c7333f265da1b8e70a762)|[Javascript的jsonp原理](https://github.com/Wscats/Good-text-Share/issues/55)|[Javascript监听触摸事件](https://github.com/Wscats/Good-text-Share/issues/49)
+[Javascript中的var self = this](https://github.com/Wscats/Good-text-Share/issues/52)|[Javascript面向对象编程](https://github.com/Wscats/Good-text-Share/issues/32)|[Javascript滑屏切换场景](https://github.com/Wscats/Good-text-Share/issues/14)|[Javascript获取经纬度，关于调用百度API的问题](https://github.com/Wscats/Good-text-Share/issues/16)
+[妙用Javascript运算符](https://github.com/Wscats/Good-text-Share/issues/3)|[深入理解Javascript函数编程](https://github.com/Wscats/Good-text-Share/issues/1)|[Javascript的setTimeout详细用例](https://github.com/Wscats/Good-text-Share/issues/4)|[sessionstorage，localstorage和cookie](https://github.com/Wscats/Good-text-Share/issues/42)
+[JS日期处理]https://juejin.im/post/5d0345dde51d4577770e7375)|[JSONP参考文章](https://github.com/Wscats/Good-text-Share/issues/10)
+|[Javascript的createElement](https://wscats.github.io/angular-demo/createElement.html)|[Javascript的createDocumentFragment](https://wscats.github.io/angular-demo/createDocumentFragment.html)
+[sessionStorage和localStorage](https://wscats.github.io/angular-demo/sessionStoragelocalStorage.html)|[像素帧动画](https://wscats.github.io/angular-demo/像素动画.html)|*|*
+**Reference** | **Reference** |**Reference**|**Reference**
+[JavaScript中的this陷阱的最全收集--没有之一](https://segmentfault.com/a/1190000002640298)|[JS函数式编程指南](https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/ch1.html)|[JavaScript Promise迷你书（中文版）](http://liubin.github.io/promises-book)|[阮一峰 Javascript](http://javascript.ruanyifeng.com)
+[前端 TOP 100](https://www.awesomes.cn/rank)|[小白的零基础JavaScript全栈教程](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)|*|*
 
 ## UI
-| Reference | Reference |
-| ------------- |:-------------:| :-------------:| :-------------:| -----:|
-|[WeUI](https://github.com/weui/weui)|[Bootstrap](http://www.bootcss.com)|
+| UI框架收录 | UI框架收录  |UI框架收录 |UI框架收录|
+:-------------: |:-------------:| :-------------:| :-------------:
+[WeUI](https://github.com/weui/weui)|[Bootstrap](http://www.bootcss.com)|
 |[MUI-最接近原生APP体验的高性能前端框架](http://dev.dcloud.net.cn/mui/)|[Amaze UI中国首个开源HTML5跨屏前端框架](http://amazeui.org)|
 |[Frozen UI](http://frozenui.github.io/)|[Foundation](http://foundation.zurb.com/)|
 |[SUI](http://sui.taobao.org/sui/docs/)|[ZUI](https://github.com/easysoft/zui)|
@@ -126,99 +121,76 @@ Article | Article | Angular文档 |Article | Article
 |[Smart UI](http://smartui.chinamzz.com)|[雅虎UI - CSS UI](http://developer.yahoo.com/yui/grids)|
 
 ## 其他
-| Other | Article |
-| ------------- |:-------------:| :-------------:| :-------------:| -----:|
-|[关于Pornographic website的一些前端分析](https://github.com/Wscats/node-demo/issues/4)|[微信公众号开发](https://github.com/Wscats/Good-text-Share/issues/50)|
-|[Atom技巧总结](https://github.com/Wscats/Good-text-Share/issues/30)|[Mac小技巧](https://github.com/Wscats/Good-text-Share/issues/46)|
-|[CSDN页面内JS跳转脚本](https://github.com/Wscats/Good-text-Share/issues/9)|[CSDN博客隐藏配置](https://github.com/Wscats/Good-text-Share/issues/8)|
-|[百度设置小度机器人出现](https://github.com/Wscats/Good-text-Share/issues/7)|[前端冷知识，妙用浏览器地址栏](https://github.com/Wscats/Good-text-Share/issues/2)|
-|[Vim笔记](https://github.com/Wscats/Good-text-Share/issues/27)|[Cordova配置&&Ionic配置（WebApp混合开发环境）](https://github.com/Wscats/Good-text-Share/issues/48)|
-|[IE8及以下按钮超链接无法跳转的问题](https://github.com/Wscats/Good-text-Share/issues/33)||
+| Other | Article |Other | Article |
+:-------------:| :-------------:| :-------------:| :-------------:
+|[关于Pornographic website的一些前端分析](https://github.com/Wscats/node-demo/issues/4)|[微信公众号开发](https://github.com/Wscats/Good-text-Share/issues/50)|[Atom技巧总结](https://github.com/Wscats/Good-text-Share/issues/30)|[Mac小技巧](https://github.com/Wscats/Good-text-Share/issues/46)
+[CSDN页面内JS跳转脚本](https://github.com/Wscats/Good-text-Share/issues/9)|[CSDN博客隐藏配置](https://github.com/Wscats/Good-text-Share/issues/8)|[百度设置小度机器人出现](https://github.com/Wscats/Good-text-Share/issues/7)|[前端冷知识，妙用浏览器地址栏](https://github.com/Wscats/Good-text-Share/issues/2)|[Vim笔记](https://github.com/Wscats/Good-text-Share/issues/27)
+[Cordova配置&&Ionic配置（WebApp混合开发环境）](https://github.com/Wscats/Good-text-Share/issues/48)|[IE8及以下按钮超链接无法跳转的问题](https://github.com/Wscats/Good-text-Share/issues/33)|*|*
 
 ## 工具类
-| some | Tool |
-| ------------- |:-------------:| :-------------:| :-------------:| -----:|
-|[在线JSON字符串转Java实体类](https://www.bejson.com/json2javapojo/new/)||
-|[码云在线工具](http://tool.oschina.net/)||
+| some | Tool |some | Tool |
+:-------------:| :-------------:| :-------------:|:-------------:
+|[在线JSON字符串转Java实体类](https://www.bejson.com/json2javapojo/new/)|*|[码云在线工具](http://tool.oschina.net/)|*
 
 ## 分享功能
-| Share | Reference |
-| ------------- |:-------------:| :-------------:| :-------------:| -----:|
-|[百度分享(PC)](http://share.baidu.com)|[JiaThis(PC)](http://jiathis.com)|
-|[社会化分享组件(Mobile)](http://developer.baidu.com/soc/share)|[ShareSDK轻松实现社会化功能(Mobile)](http://www.mob.com)|
-|[友盟分享(Mobile)](http://dev.umeng.com/social/android/quick-integration)||
+| Share | Reference | Share | Reference |
+:-------------:| :-------------:| :-------------:|  :-------------:
+|[百度分享(PC)](http://share.baidu.com)|[JiaThis(PC)](http://jiathis.com)|[社会化分享组件(Mobile)](http://developer.baidu.com/soc/share)|[ShareSDK轻松实现社会化功能(Mobile)](http://www.mob.com)|[友盟分享(Mobile)](http://dev.umeng.com/social/android/quick-integration)
 
 ## 在线演示
-| Reference | Reference |
-| ------------- |:-------------:| :-------------:| :-------------:| -----:|
-|[js 在线编辑 - runjs](http://runjs.cn)|[js 在线编辑 - jsbin](http://jsbin.com)|
-|[js 在线编辑 - codepen](http://codepen.io)|[js 在线编辑 - jsfiddle](http://jsfiddle.net)|
-|[java 在线编辑 - runjs](http://ideone.com)|[js 在线编辑 - hcharts](http://code.hcharts.cn)|
-|[js 在线编辑 - jsdm](http://jsdm.com)|[sql 在线编辑 - sqlfiddle](http://sqlfiddle.com)|
-|[mozilla 在线编辑器](https://thimble.mozilla.org)||
+| Reference | Reference |Reference | Reference |
+:-------------:| :-------------:| :-------------:| :-------------:
+[js 在线编辑 - runjs](http://runjs.cn)|[js 在线编辑 - jsbin](http://jsbin.com)|[js 在线编辑 - codepen](http://codepen.io)|[js 在线编辑 - jsfiddle](http://jsfiddle.net)
+[java 在线编辑 - runjs](http://ideone.com)|[js 在线编辑 - hcharts](http://code.hcharts.cn)|[js 在线编辑 - jsdm](http://jsdm.com)|[sql 在线编辑 - sqlfiddle](http://sqlfiddle.com)|[mozilla 在线编辑器](https://thimble.mozilla.org)
 
 ## 富文本编辑器
-| Reference | Reference |
-| ------------- |:-------------:| :-------------:| :-------------:| -----:|
-|[百度ueditor](http://ueditor.baidu.com/website)|[ckeditor](http://ckeditor.com)|
-|[tinymce](https://www.tinymce.com)|[kindeditor](http://kindeditor.net)|
-|[wysiwyg](http://www.bootcss.com/p/bootstrap-wysiwyg)|[BachEditor](http://integ.github.io/BachEditor)|
-|[simditor](https://github.com/mycolorway/simditor)|[summernote](https://github.com/summernote/summernote)|
-|[Squire](http://neilj.github.io/Squire)|[wangEditor](https://github.com/wangfupeng1988/wangEditor)|
+| Reference | Reference | Reference | Reference |
+:-------------:|:-------------:| :-------------:| :-------------:
+[百度ueditor](http://ueditor.baidu.com/website)|[ckeditor](http://ckeditor.com)|[tinymce](https://www.tinymce.com)|[kindeditor](http://kindeditor.net)
+[wysiwyg](http://www.bootcss.com/p/bootstrap-wysiwyg)|[BachEditor](http://integ.github.io/BachEditor)|[simditor](https://github.com/mycolorway/simditor)|[summernote](https://github.com/summernote/summernote)
+[Squire](http://neilj.github.io/Squire)|[wangEditor](https://github.com/wangfupeng1988/wangEditor)|*|*
 
 ## Chrome
-| Reference | Reference |
-| ------------- |:-------------:| :-------------:| :-------------:| -----:|
-|[Chrome - 基础](http://www.cnblogs.com/constantince/p/4565261.html)|[Chrome - 进阶](http://www.cnblogs.com/constantince/p/4579121.html)|
-|[Chrome - 性能](http://www.cnblogs.com/constantince/p/4585983.html)|[Chrome - 性能进阶](http://www.cnblogs.com/constantince/p/4607497.html)|
-|[Chrome - 移动](http://www.cnblogs.com/constantince/p/4624241.html)|[Chrome - 使用技巧](http://www.cnblogs.com/liyunhua/p/4544738.html)|
-|[Chrome - Console控制台不完全指南](http://www.cnblogs.com/Wayou/p/chrome-console-tips-and-tricks.html)|[chrome开发工具快捷键](http://anti-code.com/devtools-cheatsheet)|
-|[Chrome 开发工具 Workspace 使用](http://www.iinterest.net/2014/05/09/chrome-dev-tool-workspace)|[Chrome神器Vimium快捷键学习记录](http://www.cppblog.com/deercoder/archive/2011/10/22/158886.html)|
-|[Sass调试-w3cplus](http://www.w3cplus.com/sassguide/debug.html)|[如何更专业的使用Chrome开发者工具-w3cplus](http://www.w3cplus.com/tools/how-to-use-chrome-devtools-like-a-pro.html)|
-|[Chrome调试canvas](http://sentsin.com/web/253.html)|[神器——Chrome开发者工具(一)](https://segmentfault.com/a/1190000000683599)|
-|[奇趣百科性能优化(Chrome DevTools 中的 Timeline Profils 等工具使用介绍](https://xinranliu.me/2015-05-22-qiqu-performance)|[Chrome 开发者工具的 15 个小技巧](http://frontenddev.org/link/15-tips-of-chrome-developer-tools.html)|
-|[Chrome开发者工具不完全指南](http://1ke.co/course/361)|[Chrome 开发者工具使用技巧](http://segmentfault.com/a/1190000003882567)|
+| Reference | Reference | Reference | Reference |
+:-------------:| :-------------:| :-------------:|:-------------:
+[Chrome - 基础](http://www.cnblogs.com/constantince/p/4565261.html)|[Chrome - 进阶](http://www.cnblogs.com/constantince/p/4579121.html)|[Chrome - 性能](http://www.cnblogs.com/constantince/p/4585983.html)|[Chrome - 性能进阶](http://www.cnblogs.com/constantince/p/4607497.html)
+[Chrome - 移动](http://www.cnblogs.com/constantince/p/4624241.html)|[Chrome - 使用技巧](http://www.cnblogs.com/liyunhua/p/4544738.html)|[Chrome - Console控制台不完全指南](http://www.cnblogs.com/Wayou/p/chrome-console-tips-and-tricks.html)|[chrome开发工具快捷键](http://anti-code.com/devtools-cheatsheet)
+[Chrome 开发工具 Workspace 使用](http://www.iinterest.net/2014/05/09/chrome-dev-tool-workspace)|[Chrome神器Vimium快捷键学习记录](http://www.cppblog.com/deercoder/archive/2011/10/22/158886.html)|[Sass调试-w3cplus](http://www.w3cplus.com/sassguide/debug.html)|[如何更专业的使用Chrome开发者工具-w3cplus](http://www.w3cplus.com/tools/how-to-use-chrome-devtools-like-a-pro.html)
+[Chrome调试canvas](http://sentsin.com/web/253.html)|[神器——Chrome开发者工具(一)](https://segmentfault.com/a/1190000000683599)|
+|[奇趣百科性能优化(Chrome DevTools 中的 Timeline Profils 等工具使用介绍](https://xinranliu.me/2015-05-22-qiqu-performance)|[Chrome 开发者工具的 15 个小技巧](http://frontenddev.org/link/15-tips-of-chrome-developer-tools.html)
+[Chrome开发者工具不完全指南](http://1ke.co/course/361)|[Chrome 开发者工具使用技巧](http://segmentfault.com/a/1190000003882567)|*|*
 
 ## 性能优化
-| Reference | Reference |
-| ------------- |:-------------:| :-------------:| :-------------:| -----:|
-|[Javascript高性能动画与页面渲染](http://www.infoq.com/cn/articles/javascript-high-performance-animation-and-page-rendering)|[移动H5前端性能优化指南](http://isux.tencent.com/h5-performance.html)|
-|[给网页设计师和前端开发者看的前端性能优化](http://www.uisdc.com/front-end-performance-for-web-designers-and-front-end-developers)|[张鑫旭——前端性能](http://www.zhangxinxu.com/wordpress/tag/%E5%89%8D%E7%AB%AF%E6%80%A7%E8%83%BD/)|
-|[web前端性能优化进阶路](http://www.aliued.cn/2013/01/20/web%E5%89%8D%E7%AB%AF%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E8%BF%9B%E9%98%B6%E8%B7%AF.html)|[Hey——前端性能](http://www.feelcss.com/tag/%E5%89%8D%E7%AB%AF%E6%80%A7%E8%83%BD)|
-|[YSLOW中文介绍](http://www.cnblogs.com/yslow)|[Yahoo!团队实践分享：网站性能](http://www.360doc.com/content/10/0928/09/2588264_56971287.shtml)|
-|[加载，不只是少一点点](http://tgideas.qq.com/webplat/info/news_version3/804/808/811/m579/201109/41355.shtml)|[由12306谈谈网站前端性能和后端性能优化](http://coolshell.cn/articles/6470.html)|
-|[【高性能前端1】高性能HTML](http://www.alloyteam.com/2012/10/high-performance-html)|[【高性能前端2】高性能CSS](http://www.alloyteam.com/2012/10/high-performance-css)|
-|[前端工程与性能优化（上）：静态资源版本更新与缓存](http://www.infoq.com/cn/articles/front-end-engineering-and-performance-optimization-part1)|[前端工程与性能优化（下）：静态资源管理与模板框架](http://www.infoq.com/cn/articles/front-end-engineering-and-performance-optimization-part2)|
-|[HTTPS连接的前几毫秒发生了什么](http://blog.jobbole.com/48369)|[Yslow](http://uicss.cn/yslow/#more-12319)|
-|[阿里无线前端性能优化指南(Pt.1 加载期优化)](https://github.com/amfe/article/issues/1)|[毫秒必争，前端网页性能最佳实践](http://www.cnblogs.com/developersupport/p/3248695.html)|
+| Reference | Reference |Reference | Reference |
+:-------------:| :-------------:| :-------------:|:-------------:
+[Javascript高性能动画与页面渲染](http://www.infoq.com/cn/articles/javascript-high-performance-animation-and-page-rendering)|[移动H5前端性能优化指南](http://isux.tencent.com/h5-performance.html)|[给网页设计师和前端开发者看的前端性能优化](http://www.uisdc.com/front-end-performance-for-web-designers-and-front-end-developers)|[张鑫旭——前端性能](http://www.zhangxinxu.com/wordpress/tag/%E5%89%8D%E7%AB%AF%E6%80%A7%E8%83%BD/)
+[web前端性能优化进阶路](http://www.aliued.cn/2013/01/20/web%E5%89%8D%E7%AB%AF%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E8%BF%9B%E9%98%B6%E8%B7%AF.html)|[Hey——前端性能](http://www.feelcss.com/tag/%E5%89%8D%E7%AB%AF%E6%80%A7%E8%83%BD)|[YSLOW中文介绍](http://www.cnblogs.com/yslow)|[Yahoo!团队实践分享：网站性能](http://www.360doc.com/content/10/0928/09/2588264_56971287.shtml)
+[加载，不只是少一点点](http://tgideas.qq.com/webplat/info/news_version3/804/808/811/m579/201109/41355.shtml)|[由12306谈谈网站前端性能和后端性能优化](http://coolshell.cn/articles/6470.html)|[【高性能前端1】高性能HTML](http://www.alloyteam.com/2012/10/high-performance-html)|[【高性能前端2】高性能CSS](http://www.alloyteam.com/2012/10/high-performance-css)
+[前端工程与性能优化（上）：静态资源版本更新与缓存](http://www.infoq.com/cn/articles/front-end-engineering-and-performance-optimization-part1)|[前端工程与性能优化（下）：静态资源管理与模板框架](http://www.infoq.com/cn/articles/front-end-engineering-and-performance-optimization-part2)|[HTTPS连接的前几毫秒发生了什么](http://blog.jobbole.com/48369)|[Yslow](http://uicss.cn/yslow/#more-12319)
+[阿里无线前端性能优化指南(Pt.1 加载期优化)](https://github.com/amfe/article/issues/1)|[毫秒必争，前端网页性能最佳实践](http://www.cnblogs.com/developersupport/p/3248695.html)|*|*
 
 ## CDN
-| Reference | Reference |
-| ------------- |:-------------:| :-------------:| :-------------:| -----:|
-|[Jquery&Bootstrap中文网开源项目免费 CDN 服务](http://www.bootcdn.cn/jquery)|[Bootstrap中文网开源项目免费 CDN 服务](http://www.bootcdn.cn)|
-|[新浪CDN](http://lib.sinaapp.com)|[百度静态资源公共库](http://cdn.code.baidu.com)|
-|[开放静态文件 CDN - 七牛](http://staticfile.org)|[CDN加速 - jq22](http://www.jq22.com/cdn)|
-|[微软CDN](http://www.asp.net/ajax/cdn)|[Angular CDN](https://code.angularjs.org/1.5.8/)|
-|[360网站卫士常用前端公共库CDN服务](http://libs.useso.com)||
+| Reference | Reference | Reference | Reference |
+:-------------:| :-------------:| :-------------:| :-------------:
+[Jquery&Bootstrap中文网开源项目免费 CDN 服务](http://www.bootcdn.cn/jquery)|[Bootstrap中文网开源项目免费 CDN 服务](http://www.bootcdn.cn)|[新浪CDN](http://lib.sinaapp.com)|[百度静态资源公共库](http://cdn.code.baidu.com)
+[开放静态文件 CDN - 七牛](http://staticfile.org)|[CDN加速 - jq22](http://www.jq22.com/cdn)|[微软CDN](http://www.asp.net/ajax/cdn)|[Angular CDN](https://code.angularjs.org/1.5.8/)
+[360网站卫士常用前端公共库CDN服务](http://libs.useso.com)|*|*|*
 
 ## Git
-| Article | Article |
-| ------------- |:-------------:| :-------------:| :-------------:| -----:|
-|[Git操作](https://github.com/Wscats/Good-text-Share/issues/20)|[Git CSDN Blog](http://blog.csdn.net/qq_27080247/article/details/49942991)|
-| **Reference** | **Reference** |
-|[Git-scm](http://git-scm.com)|[Git-for-windows](https://git-for-windows.github.io)|
-|[廖雪峰-Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)|[Gogithub](http://www.worldhello.net/gotgithub/index.html)|
-|[Git常规命令练习](http://pcottle.github.io/learnGitBranching)|[Git的资料整理](https://github.com/xirong/my-git)|
-|[我所记录的git命令（非常实用）](http://www.cnblogs.com/fanfan259/p/4810517.html)|[GitHub 漫游指南](https://github.com/phodal/github-roam)|
-|[GitHub秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md)|[动画方式练习git](http://onlywei.github.io/explain-git-with-d3)|
+| Article | Article |Article | Article |
+:-------------:| :-------------:| :-------------:| :-------------:
+[Git操作](https://github.com/Wscats/Good-text-Share/issues/20)|[Git CSDN Blog](http://blog.csdn.net/qq_27080247/article/details/49942991)|*|*
+| **Reference** | **Reference** |**Reference** | **Reference** |
+[Git-scm](http://git-scm.com)|[Git-for-windows](https://git-for-windows.github.io)|[廖雪峰-Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)|[Gogithub](http://www.worldhello.net/gotgithub/index.html)
+[Git常规命令练习](http://pcottle.github.io/learnGitBranching)|[Git的资料整理](https://github.com/xirong/my-git)|[我所记录的git命令（非常实用）](http://www.cnblogs.com/fanfan259/p/4810517.html)|[GitHub 漫游指南](https://github.com/phodal/github-roam)
+[GitHub秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md)|[动画方式练习git](http://onlywei.github.io/explain-git-with-d3)|*|*
 
 ## Sass&Less
-| Article | Article |
-| ------------- |:-------------:| :-------------:| :-------------:| -----:|
-|[Less教程](https://github.com/Wscats/less-demo/issues/1)||
-| **Reference** | **Reference** |
-|[Sass](http://www.w3cplus.com/sassguide)|[Sass中文文档](http://sass.bootcss.com)|
-|[Less](http://less.bootcss.com)||
+| Article | Article | Article | Article |
+:-------------:| :-------------:| :-------------:| :-------------:
+|[Less教程](https://github.com/Wscats/less-demo/issues/1)|*|*|*
+| **Reference** | **Reference** |**Reference** | **Reference** |
+[Sass](http://www.w3cplus.com/sassguide)|[Sass中文文档](http://sass.bootcss.com)|[Less](http://less.bootcss.com)|*
 
 ## Markdown
 | Reference | Reference |
