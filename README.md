@@ -17,7 +17,7 @@ HTML | HTML |
 [HTML5有哪些让你惊艳的demo](http://www.zhihu.com/question/24398907) | [Wallpaperbetter](http://www.wallpaperbetter.com/)
 
 ## Angular
-Article | Angular文档 | Angular文档 |Angular文档 
+Article | Angular文档 | Angular文档 |Angular文档 | Angular文档
 :-------------: |:-------------:| :-------------:| :-------------:| :----------:
 [Angular源码解读publishExternalAPI函数](https://github.com/Wscats/Good-text-Share/issues/26) | [Angular源码解读setupModuleLoader函数](https://github.com/Wscats/Good-text-Share/issues/25) | [Angular的ng-style用法](https://github.com/Wscats/Good-text-Share/issues/35) | [Angular判断在那个浏览器下打开的服务](https://github.com/Wscats/Good-text-Share/issues/29) | [Angular文字折叠展开组件的原理分析](https://github.com/Wscats/Good-text-Share/issues/28)
 [Angular服务Request异步请求的详细分析](https://github.com/Wscats/Good-text-Share/issues/21) | [Angular自定义service服务详解](https://github.com/Wscats/Good-text-Share/issues/24) | [Angular自定义判断上一页是否存在的服务](https://github.com/Wscats/Good-text-Share/issues/22) | [Angular操作cookies方法](https://github.com/Wscats/Good-text-Share/issues/19) | [Angular打印错误的minErr函数](https://github.com/Wscats/Good-text-Share/issues/18)
