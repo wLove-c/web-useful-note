@@ -83,8 +83,7 @@ Article | Article | Angular文档 |Article | Article
 :-------------:| :-------------:| :-------------:|:-------------:
 [node技巧](https://github.com/Wscats/Good-text-Share/issues/44) | [NodeJs静态服务器](https://github.com/Wscats/angular-demo/tree/gh-pages/diyNodeServer)| *| *
 **Reference** | **Reference** | **Reference** | **Reference** 
-[Node.js 包教不包会](https://github.com/alsotang/node-lessons) | [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/)|
-[从零开始nodejs系列文章](http://blog.fens.me/series-nodejs)|[Node入门](http://www.nodebeginner.org/index-zh-cn.html)
+[Node.js 包教不包会](https://github.com/alsotang/node-lessons) | [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/)|[从零开始nodejs系列文章](http://blog.fens.me/series-nodejs)|[Node入门](http://www.nodebeginner.org/index-zh-cn.html)
 [Node初学者入门，一本全面的NodeJS教程](http://ourjs.com/detail/529ca5950cb6498814000005)|*|*|*
 
 ## Gulp 
@@ -102,8 +101,7 @@ Article | Article | Angular文档 |Article | Article
 [Javascript深浅拷贝](https://github.com/Wscats/Good-text-Share/issues/57)|[Javascript中的apply和call继承](https://juejin.im/post/5d0c7333f265da1b8e70a762)|[Javascript的jsonp原理](https://github.com/Wscats/Good-text-Share/issues/55)|[Javascript监听触摸事件](https://github.com/Wscats/Good-text-Share/issues/49)
 [Javascript中的var self = this](https://github.com/Wscats/Good-text-Share/issues/52)|[Javascript面向对象编程](https://github.com/Wscats/Good-text-Share/issues/32)|[Javascript滑屏切换场景](https://github.com/Wscats/Good-text-Share/issues/14)|[Javascript获取经纬度，关于调用百度API的问题](https://github.com/Wscats/Good-text-Share/issues/16)
 [妙用Javascript运算符](https://github.com/Wscats/Good-text-Share/issues/3)|[深入理解Javascript函数编程](https://github.com/Wscats/Good-text-Share/issues/1)|[Javascript的setTimeout详细用例](https://github.com/Wscats/Good-text-Share/issues/4)|[sessionstorage，localstorage和cookie](https://github.com/Wscats/Good-text-Share/issues/42)
-[JS日期处理]https://juejin.im/post/5d0345dde51d4577770e7375)|[JSONP参考文章](https://github.com/Wscats/Good-text-Share/issues/10)
-|[Javascript的createElement](https://wscats.github.io/angular-demo/createElement.html)|[Javascript的createDocumentFragment](https://wscats.github.io/angular-demo/createDocumentFragment.html)
+[JS日期处理]https://juejin.im/post/5d0345dde51d4577770e7375)|[JSONP参考文章](https://github.com/Wscats/Good-text-Share/issues/10)| [Javascript的createElement](https://wscats.github.io/angular-demo/createElement.html)|[Javascript的createDocumentFragment](https://wscats.github.io/angular-demo/createDocumentFragment.html)
 [sessionStorage和localStorage](https://wscats.github.io/angular-demo/sessionStoragelocalStorage.html)|[像素帧动画](https://wscats.github.io/angular-demo/像素动画.html)|*|*
 **Reference** | **Reference** |**Reference**|**Reference**
 [JavaScript中的this陷阱的最全收集--没有之一](https://segmentfault.com/a/1190000002640298)|[JS函数式编程指南](https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/ch1.html)|[JavaScript Promise迷你书（中文版）](http://liubin.github.io/promises-book)|[阮一峰 Javascript](http://javascript.ruanyifeng.com)
@@ -112,13 +110,10 @@ Article | Article | Angular文档 |Article | Article
 ## UI
 | UI框架收录 | UI框架收录  |UI框架收录 |UI框架收录|
 :-------------: |:-------------:| :-------------:| :-------------:
-[WeUI](https://github.com/weui/weui)|[Bootstrap](http://www.bootcss.com)|
-|[MUI-最接近原生APP体验的高性能前端框架](http://dev.dcloud.net.cn/mui/)|[Amaze UI中国首个开源HTML5跨屏前端框架](http://amazeui.org)|
-|[Frozen UI](http://frozenui.github.io/)|[Foundation](http://foundation.zurb.com/)|
-|[SUI](http://sui.taobao.org/sui/docs/)|[ZUI](https://github.com/easysoft/zui)|
-|[淘宝HTML5前端框架](http://m.sui.taobao.org)|[KISSY - 阿里前端JavaScript库](http://docs.kissyui.com)|
-|[网易Nej - Nice Easy Javascript](http://nej.netease.com)|[Kendo UI MVVM Demo](http://demos.telerik.com/kendo-ui/mvvm/index)|
-|[Smart UI](http://smartui.chinamzz.com)|[雅虎UI - CSS UI](http://developer.yahoo.com/yui/grids)|
+[WeUI](https://github.com/weui/weui)|[Bootstrap](http://www.bootcss.com)|[MUI-最接近原生APP体验的高性能前端框架](http://dev.dcloud.net.cn/mui/)|[Amaze UI中国首个开源HTML5跨屏前端框架](http://amazeui.org)
+[Frozen UI](http://frozenui.github.io/)|[Foundation](http://foundation.zurb.com/)|[SUI](http://sui.taobao.org/sui/docs/)|[ZUI](https://github.com/easysoft/zui)|[淘宝HTML5前端框架](http://m.sui.taobao.org)
+[KISSY - 阿里前端JavaScript库](http://docs.kissyui.com)|[网易Nej - Nice Easy Javascript](http://nej.netease.com)|[Kendo UI MVVM Demo](http://demos.telerik.com/kendo-ui/mvvm/index)|[Smart UI](http://smartui.chinamzz.com)
+[雅虎UI - CSS UI](http://developer.yahoo.com/yui/grids)|*|*|*
 
 ## 其他
 | Other | Article |Other | Article |
@@ -156,8 +151,7 @@ Article | Article | Angular文档 |Article | Article
 [Chrome - 基础](http://www.cnblogs.com/constantince/p/4565261.html)|[Chrome - 进阶](http://www.cnblogs.com/constantince/p/4579121.html)|[Chrome - 性能](http://www.cnblogs.com/constantince/p/4585983.html)|[Chrome - 性能进阶](http://www.cnblogs.com/constantince/p/4607497.html)
 [Chrome - 移动](http://www.cnblogs.com/constantince/p/4624241.html)|[Chrome - 使用技巧](http://www.cnblogs.com/liyunhua/p/4544738.html)|[Chrome - Console控制台不完全指南](http://www.cnblogs.com/Wayou/p/chrome-console-tips-and-tricks.html)|[chrome开发工具快捷键](http://anti-code.com/devtools-cheatsheet)
 [Chrome 开发工具 Workspace 使用](http://www.iinterest.net/2014/05/09/chrome-dev-tool-workspace)|[Chrome神器Vimium快捷键学习记录](http://www.cppblog.com/deercoder/archive/2011/10/22/158886.html)|[Sass调试-w3cplus](http://www.w3cplus.com/sassguide/debug.html)|[如何更专业的使用Chrome开发者工具-w3cplus](http://www.w3cplus.com/tools/how-to-use-chrome-devtools-like-a-pro.html)
-[Chrome调试canvas](http://sentsin.com/web/253.html)|[神器——Chrome开发者工具(一)](https://segmentfault.com/a/1190000000683599)|
-|[奇趣百科性能优化(Chrome DevTools 中的 Timeline Profils 等工具使用介绍](https://xinranliu.me/2015-05-22-qiqu-performance)|[Chrome 开发者工具的 15 个小技巧](http://frontenddev.org/link/15-tips-of-chrome-developer-tools.html)
+[Chrome调试canvas](http://sentsin.com/web/253.html)|[神器——Chrome开发者工具(一)](https://segmentfault.com/a/1190000000683599)|[奇趣百科性能优化(Chrome DevTools 中的 Timeline Profils 等工具使用介绍](https://xinranliu.me/2015-05-22-qiqu-performance)|[Chrome 开发者工具的 15 个小技巧](http://frontenddev.org/link/15-tips-of-chrome-developer-tools.html)
 [Chrome开发者工具不完全指南](http://1ke.co/course/361)|[Chrome 开发者工具使用技巧](http://segmentfault.com/a/1190000003882567)|*|*
 
 ## 性能优化
@@ -193,65 +187,52 @@ Article | Article | Angular文档 |Article | Article
 [Sass](http://www.w3cplus.com/sassguide)|[Sass中文文档](http://sass.bootcss.com)|[Less](http://less.bootcss.com)|*
 
 ## Markdown
-| Reference | Reference |
-| ------------- |:-------------:| :-------------:| :-------------:| -----:|
-|[Markdown 语法说明 (简体中文版)](http://wowubuntu.com/markdown)|[Markdown入门参考](https://github.com/LearnShare/Learning-Markdown/blob/master/README.md)|
-|[Mdeditor(一款国内的在线markdown编辑器)](https://www.zybuluo.com/mdeditor)|[Stackedit(国外的在线markdown编辑器，功能强大，同步云盘)](https://stackedit.io)|
-|[Mditor一款轻量级的markdown编辑器](http://bh-lay.github.io/mditor)|[lepture-editor](https://github.com/lepture/editor)|
-|[Markdown-editor](https://github.com/jbt/markdown-editor)||
+| Reference | Reference |Reference | Reference |
+:-------------:| :-------------:| :-------------:| :-------------:
+[Markdown 语法说明 (简体中文版)](http://wowubuntu.com/markdown)|[Markdown入门参考](https://github.com/LearnShare/Learning-Markdown/blob/master/README.md)|[Mdeditor(一款国内的在线markdown编辑器)](https://www.zybuluo.com/mdeditor)|[Stackedit(国外的在线markdown编辑器，功能强大，同步云盘)](https://stackedit.io)
+[Mditor一款轻量级的markdown编辑器](http://bh-lay.github.io/mditor)|[lepture-editor](https://github.com/lepture/editor)|
+|[Markdown-editor](https://github.com/jbt/markdown-editor)|*
 
 ## 前端文档
-| Reference | Reference |
-| ------------- |:-------------:| :-------------:| :-------------:| -----:|
-|[前端知识结构](https://github.com/JacksonTian/fks)|[Web前端开发大系概览](https://github.com/unruledboy/WebFrontEndStack)|
-|[免费的编程中文书籍索](https://github.com/justjavac/free-programming-books-zh_CN)|[前端书籍](https://github.com/dypsilon/frontend-dev-bookmarks)|
-|[前端免费书籍大全](https://github.com/vhf/free-programming-books)|[重新介绍JavaScript（JS教程）](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/A_re-introduction_to_JavaScript)|
-|[Gitbook](https://www.gitbook.com 国外的在线markdown可编辑成书)|[Front-End-Develop-Guide 前端开发指南](https://github.com/Front-End-Developers-Hunan/Front-End-Develop-Guide)|
-|[前端开发笔记本](https://li-xinyang.gitbooks.io/frontend-notebook/content)|[大前端工具集](https://github.com/nieweidong/fetool)|
-|[前端开发者手册](https://dwqs.gitbooks.io/frontenddevhandbook/content)|[结合个人经历总结的前端入门方法](https://github.com/qiu-deqing/FE-learning)|
-|[2016最新前端学习计划](http://blog.csdn.net/qq_25827845/article/details/53079094)|
+| Reference | Reference |Reference | Reference |
+:-------------:| :-------------:| :-------------:| :-------------:
+[前端知识结构](https://github.com/JacksonTian/fks)|[Web前端开发大系概览](https://github.com/unruledboy/WebFrontEndStack)|[免费的编程中文书籍索](https://github.com/justjavac/free-programming-books-zh_CN)|[前端书籍](https://github.com/dypsilon/frontend-dev-bookmarks)
+[前端免费书籍大全](https://github.com/vhf/free-programming-books)|[重新介绍JavaScript（JS教程）](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/A_re-introduction_to_JavaScript)|[Gitbook](https://www.gitbook.com 国外的在线markdown可编辑成书)|[Front-End-Develop-Guide 前端开发指南](https://github.com/Front-End-Developers-Hunan/Front-End-Develop-Guide)
+[前端开发笔记本](https://li-xinyang.gitbooks.io/frontend-notebook/content)|[大前端工具集](https://github.com/nieweidong/fetool)|[前端开发者手册](https://dwqs.gitbooks.io/frontenddevhandbook/content)|[结合个人经历总结的前端入门方法](https://github.com/qiu-deqing/FE-learning)
+[2016最新前端学习计划](http://blog.csdn.net/qq_25827845/article/details/53079094)|*|*|*
 
 ## 前端规范
-| Reference | Reference |
-| ------------- |:-------------:| :-------------:| :-------------:| -----:|
-|[通过分析github代码库总结出来的工程师代码书写习惯](http://alloyteam.github.io/CodeGuide/)|[HTML&CSS编码规范 by @mdo](http://codeguide.bootcss.com)|
-|[前端编码规范之js - by yuwenhui](http://yuwenhui.github.io)|[前端编码规范之js - by 李靖](http://www.cnblogs.com/hustskyking/p/javascript-spec.html)|
-|[Airbnb JavaScript 编码规范（简体中文版）](https://github.com/yuche/javascript#table-of-contents)|[AMD与CMD规范的区别](http://www.zhihu.com/question/20351507)|
-|[AMD与CMD规范的区别](http://www.cnblogs.com/tugenhua0707/p/3507957.html)|[KISSY 源码规范](http://docs.kissyui.com/1.4/docs/html/tutorials/style-guide/kissy-source-style.html)|
-|[前端代码规范及最佳实践](http://blog.jobbole.com/79075)|[百度前端规范](http://coderlmn.github.io/code-standards)|
-|[JavaScript风格指南/编码规范（Airbnb公司版）](http://blog.jobbole.com/79484)|[网易前端开发规范](http://nec.netease.com/standard)|
-|[前端规范资源列表](https://github.com/ecomfe/spec)|[Web 前端开发规范文档](http://codecloud.net/5622.html)|
+| Reference | Reference |Reference | Reference |
+:-------------:| :-------------:| :-------------:|:-------------:
+[通过分析github代码库总结出来的工程师代码书写习惯](http://alloyteam.github.io/CodeGuide/)|[HTML&CSS编码规范 by @mdo](http://codeguide.bootcss.com)|[前端编码规范之js - by yuwenhui](http://yuwenhui.github.io)|[前端编码规范之js - by 李靖](http://www.cnblogs.com/hustskyking/p/javascript-spec.html)|[Airbnb JavaScript 编码规范（简体中文版](https://github.com/yuche/javascript#table-of-contents)
+[AMD与CMD规范的区别](http://www.zhihu.com/question/20351507)|[AMD与CMD规范的区别](http://www.cnblogs.com/tugenhua0707/p/3507957.html)|[KISSY 源码规范](http://docs.kissyui.com/1.4/docs/html/tutorials/style-guide/kissy-source-style.html)|[前端代码规范及最佳实践](http://blog.jobbole.com/79075)
+[百度前端规范](http://coderlmn.github.io/code-standards)|[JavaScript风格指南/编码规范（Airbnb公司版）](http://blog.jobbole.com/79484)|[网易前端开发规范](http://nec.netease.com/standard)|[前端规范资源列表](https://github.com/ecomfe/spec)
+[Web 前端开发规范文档](http://codecloud.net/5622.html)|*|*|*
 
 
 ## 前端网站
-| Reference | Reference |
-| ------------- |:-------------:| :-------------:| :-------------:| -----:|
-|[掘金](https://gold.xitu.io/)|[百度FEX](http://fex.baidu.com/)|
-|[阿里UED](http://www.aliued.com/)|[菜鸟教程](http://www.runoob.com/)|
-|[QDFuns](http://www.qdfuns.com/portal.php)|[幕课网](http://www.imooc.com/)|
-|[Codepen](http://codepen.io/)|[Sentsin](http://sentsin.com/daohang/)|
-|[CTOLib](http://www.ctolib.com/javascript/)|[CTOLib/Node](http://www.ctolib.com/nodejs/)|
+| Reference | Reference | Reference | Reference |
+:-------------:| :-------------:| :-------------:| :-------------:
+[掘金](https://juejin.im/user/5a3b55205188251fbd33cac0)|[百度FEX](http://fex.baidu.com/)|[阿里UED](http://www.aliued.com/)|[菜鸟教程](http://www.runoob.com/)
+[QDFuns](http://www.qdfuns.com/portal.php)|[幕课网](http://www.imooc.com/)|[Codepen](http://codepen.io/)|[Sentsin](http://sentsin.com/daohang/)
+[CTOLib](http://www.ctolib.com/javascript/)|[CTOLib/Node](http://www.ctolib.com/nodejs/)|[简书](https://www.jianshu.com/u/486396b2fbdf)|[csdn](https://blog.csdn.net/weixin_40755688)
 
 ## JS练习
-| Reference | Reference |
-| ------------- |:-------------:| :-------------:| :-------------:| -----:|
-|[Codewars](https://www.codewars.com/)|[Javascript-puzzlers](http://javascript-puzzlers.herokuapp.com/)|
-|[Freecodecamp中文版](https://freecodecamp.cn/)|[ES6katas](http://es6katas.org/)|
-|[Now Coder牛客网](https://www.nowcoder.com/ta/js-assessment)|[Leetcode](https://leetcode.com/)|
-|[Nodeschool](https://nodeschool.io/)|[Hackerrank](https://www.hackerrank.com/)|
+| Reference | Reference |Reference | Reference |
+:-------------:| :-------------:| :-------------:| :-------------:
+[Codewars](https://www.codewars.com/)|[Javascript-puzzlers](http://javascript-puzzlers.herokuapp.com/)|[Freecodecamp中文版](https://freecodecamp.cn/)|[ES6katas](http://es6katas.org/)|[Now Coder牛客网](https://www.nowcoder.com/ta/js-assessment)[Leetcode](https://leetcode.com/)[Nodeschool](https://nodeschool.io/)|[Hackerrank](https://www.hackerrank.com/)|*
 
 ## 算法
-| Reference | Reference |
-| ------------- |:-------------:| :-------------:| :-------------:| -----:|
-|[数据结构与算法 JavaScript 描述. 章节练习](https://github.com/Ralph-Wang/algorithm.in.js)|[常见排序算法（JS版）](https://github.com/twobin/twobinSort)|
-|[经典排序](https://github.com/luofei2011/jsAgm/blob/master/js/sort.js)|[常见排序算法-js版本](https://github.com/hechangmin/jssort)|
+| Reference | Reference |Reference | Reference |
+:-------------:| :-------------:| :-------------:| :-------------:
+[数据结构与算法 JavaScript 描述. 章节练习](https://github.com/Ralph-Wang/algorithm.in.js)|[常见排序算法（JS版）](https://github.com/twobin/twobinSort)|[经典排序](https://github.com/luofei2011/jsAgm/blob/master/js/sort.js)|[常见排序算法-js版本](https://github.com/hechangmin/jssort)
 
 ## ES
-| Reference | Reference |
-| ------------- |:-------------:| :-------------:| :-------------:| -----:|
-|[Exploring-ES6翻译](http://es6-org.github.io/exploring-es6/)|[阮一峰 ES6](http://es6.ruanyifeng.com)|
-|[ECMA-262，第 5 版](http://yanhaijing.com/es5)|[ES5](http://es5.github.io)|
+| Reference | Reference |Reference | Reference |
+:-------------:| :-------------:| :-------------:| :-------------:
+[Exploring-ES6翻译](http://es6-org.github.io/exploring-es6/)|[阮一峰 ES6](http://es6.ruanyifeng.com)|[ECMA-262，第 5 版](http://yanhaijing.com/es5)|[ES5](http://es5.github.io)
 
 ## 功能工具
-
-|[拖拽功能draggable](https://github.com/Shopify/draggable)| [vue的拖拽插件vue-grid-layout](https://github.com/jbaysolutions/vue-grid-layout)| [微信H5页面-fullpage制作](http://maka.im/about.html) 
+| 功能工具 | 功能工具 |功能工具 | 功能工具 |
+:-------------:| :-------------:| :-------------:| :-------------:
+[拖拽功能draggable](https://github.com/Shopify/draggable)| [vue的拖拽插件vue-grid-layout](https://github.com/jbaysolutions/vue-grid-layout)|[微信H5页面-fullpage制作](http://maka.im/about.html) |[vue.draggable]()
