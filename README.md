@@ -88,7 +88,7 @@ Article | Article | Angular文档 |Article | Article
 ## Gulp 
 | Gulp | Article | Gulp |Article|
  :-------------: |:-------------:| :-------------:| :-------------:
-[Gulp Demo](https://github.com/wLove-c/gulp-study) |[Gulp 文章](https://juejin.im/post/5d08a9fbe51d4510774a886c) |*|*
+[Gulp Demo](https://github.com/wLove-c/gulp-study) |[Gulp 文章](https://github.com/wLove-c/gulp-study) |*|*
 | **Gulp** | **Reference** | **Gulp** |**Reference** | 
 [Gulp官网](http://gulpjs.com)|[Gulp中文网](http://www.gulpjs.com.cn)|[Gulp资料收集](https://github.com/Platform-CUF/use-gulp)|[Gulp：任务自动管理工具 - ruanyifeng](http://javascript.ruanyifeng.com/tool/gulp.html)
 [Gulp插件](http://gulpjs.com/plugins])|[Gulp不完全入门教程](http://www.ido321.com/1622.html)|[Gulp 入门指南](https://github.com/nimojs/gulp-book)|*
