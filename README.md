@@ -1,8 +1,8 @@
 
 ## 文章内容大多转自 [winds](https://github.com/windiest)
 ## CSS
-| Article | Article |
-| ------------- |:-------------:| :-------------:| :-------------:| -----:|
+| CSS Article | CSS Article |
+ :-: |:-:| :-:| :-:| :-:
 |[CSS Flex布局](https://github.com/Wscats/Good-text-Share/issues/41)|[移动前端开发CSS3](https://github.com/Wscats/Good-text-Share/issues/38)|
 |[响应式布局 媒体查询](https://github.com/Wscats/Good-text-Share/issues/43)|[CSS图片响应式布局](https://github.com/Wscats/Good-text-Share/issues/34)|
 |[lessDemo的less文件](https://wscats.github.io/angular-demo/stylesheets/styles.less)||
@@ -19,7 +19,7 @@ name | 111 | 222 | 333 | 444
 aaa | bbb | ccc | ddd | eee| 
 fff | ggg| hhh | iii | 000|
 ## HTML
-name | name |
+HTML | HTML |
 :-: | :-: 
 [HTML5有哪些让你惊艳的demo](http://www.zhihu.com/question/24398907) | [Wallpaperbetter](http://www.wallpaperbetter.com/)
 
