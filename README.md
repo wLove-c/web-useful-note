@@ -1,5 +1,5 @@
 
-## 文章内容大多转自 [winds](https://github.com/windiest)
+## 文章内容参考[winds](https://github.com/windiest)
 ## CSS
  Article | Article |  Article |  Article 
  :-: | :-: | :-: | :-: 
@@ -66,49 +66,34 @@ Article | Article | Angular文档 |Article | Article
 [React Native 中文版](http://wiki.jikexueyuan.com/project/react-native) | [Webpack 和 React 小书 - gitbook](https://fakefish.github.io/react-webpack-cookbook)| * | *
 
 ## Vue
-| Vue |AppDemo|Demo|
-| ------------- |:-------------:| :-------------:| :-------------:| -----:|
-|[NewsDemo](https://wscats.github.io/vue-demo/news/index.html)|[vue计算属性](https://wscats.github.io/vue-demo/vue计算属性.html)|[vue生命周期](https://wscats.github.io/vue-demo/vue生命周期.html)|
-| **Article** |**Vue文档**||
-|[Vue-cli脚手架](https://github.com/Wscats/vue-demo/issues/2)|[Vue组件](https://github.com/Wscats/vue-demo/issues/3)|[vue自定义指令](https://github.com/Wscats/vue-demo/issues/8)|
-|[Vue过渡动画](https://github.com/Wscats/vue-demo/issues/9)|[Vue指令](https://github.com/Wscats/vue-demo/issues/7)|[Vue api文档](https://github.com/Wscats/vue-demo/issues/6)|
-|[Vue执行ajax请求](https://github.com/Wscats/vue-demo/issues/5)|[vue实现类似angular服务的方法](https://github.com/Wscats/vue-demo/issues/4)|[Vue源码参考文档](https://github.com/Wscats/vue-demo/issues/10)|
-| **Router** |**路由**||
-|[路由demo](https://wscats.github.io/vue-demo/路由.html)|[路由demo2](https://wscats.github.io/vue-demo/路由2.html)||
-| **Directive** |**指令**||
-|[指令demo](https://wscats.github.io/vue-demo/指令.html)|[自定义指令demo](https://wscats.github.io/vue-demo/自定义指令.html)|[滑动手势demo](https://wscats.github.io/vue-demo/滑动手势指令.html)|
-| **Filter** |**过滤器**||
-|[过滤器demo](https://wscats.github.io/vue-demo/过滤器.html)|[过滤器实现分页demo](https://wscats.github.io/vue-demo/vue使用过滤器实现分页.html)|[过滤器读写数据](https://wscats.github.io/vue-demo/vue过滤器读写数据.html)|
-| **Transition** |**过渡**||
-|[过渡demo](https://wscats.github.io/vue-demo/过渡.html)|[过渡demo2](https://wscats.github.io/vue-demo/过渡2.html)||
-| **Form** |**表单**||
-|[获取表单值](https://wscats.github.io/vue-demo/vue获取表单值.html)|||
-| **Computed** |**计算**||
-|[计算属性](https://wscats.github.io/vue-demo/vue计算属性.html)|||
-| Component |组件||
-|[组件demo](https://wscats.github.io/vue-demo/组件.html)|||
-| **Reference** | **Reference** | **Reference** |
-|[Vue官网](http://cn.vuejs.org)|[Vue论坛](http://forum.vuejs.org)|[Awesome-vue](https://github.com/vuejs/awesome-vue)|
+| Vue |AppDemo | Demo | Demo |
+:-------------: |:-------------:| :-------------:| :-------------:
+[NewsDemo](https://github.com/wLove-c/webpack4-vue2)|[vue计算属性](https://wscats.github.io/vue-demo/vue计算属性.html)|[vue生命周期](https://wscats.github.io/vue-demo/vue生命周期.html)
+ **Article** |**Vue文档**| **Article** |**Vue文档** 
+|[Vue-cli脚手架](https://cli.vuejs.org/zh/guide/)|[Vue组件](https://cn.vuejs.org/v2/guide/components-custom-events.html#%E8%87%AA%E5%AE%9A%E4%B9%89%E7%BB%84%E4%BB%B6%E7%9A%84-v-model)|[vue自定义指令](https://cn.vuejs.org/v2/guide/custom-directive.html#ad)|[Vue过渡动画](https://cn.vuejs.org/v2/guide/transitions.html#CSS-%E5%8A%A8%E7%94%BB)
+[Vue指令](https://cn.vuejs.org/v2/guide/syntax.html#%E6%8C%87%E4%BB%A4)|[Vue api文档](https://cn.vuejs.org/v2/api/#ad)| * | *
+ **Router** |**路由**|**Router**|**路由**
+|[路由文档](https://router.vuejs.org/zh/)|*|*|*
+| **Reference** | **Reference** | **Reference** | **Reference** |
+[Vue官网](http://cn.vuejs.org)|[Vue论坛](http://forum.vuejs.org)|[Awesome-vue](https://github.com/vuejs/awesome-vue)|*
 
 
 ## Node
-| Node | Article |
-| ------------- |:-------------:| :-------------:| :-------------:| -----:|
-|[node技巧](https://github.com/Wscats/Good-text-Share/issues/44)|[NodeJs静态服务器](https://github.com/Wscats/angular-demo/tree/gh-pages/diyNodeServer)|
-| **Reference** | **Reference** |
-|[Node.js 包教不包会](https://github.com/alsotang/node-lessons)|[七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/)|
-|[从零开始nodejs系列文章](http://blog.fens.me/series-nodejs)|[Node入门](http://www.nodebeginner.org/index-zh-cn.html)|
-|[Node初学者入门，一本全面的NodeJS教程](http://ourjs.com/detail/529ca5950cb6498814000005)||
+| Node | Article |Node|Article|
+:-------------:| :-------------:| :-------------:|:-------------:
+[node技巧](https://github.com/Wscats/Good-text-Share/issues/44) | [NodeJs静态服务器](https://github.com/Wscats/angular-demo/tree/gh-pages/diyNodeServer)| *| *
+**Reference** | **Reference** | **Reference** | **Reference** 
+[Node.js 包教不包会](https://github.com/alsotang/node-lessons) | [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/)|
+[从零开始nodejs系列文章](http://blog.fens.me/series-nodejs)|[Node入门](http://www.nodebeginner.org/index-zh-cn.html)
+[Node初学者入门，一本全面的NodeJS教程](http://ourjs.com/detail/529ca5950cb6498814000005)|*|*|*
 
 ## Gulp 
-| Gulp | Article |
-| ------------- |:-------------:| :-------------:| :-------------:| -----:|
-|[Gulp Demo](https://github.com/Wscats/glup)||
-| **Gulp** | **Reference** |
-|[Gulp官网](http://gulpjs.com)|[Gulp中文网](http://www.gulpjs.com.cn)|
-|[Gulp资料收集](https://github.com/Platform-CUF/use-gulp)|[Gulp：任务自动管理工具 - ruanyifeng](http://javascript.ruanyifeng.com/tool/gulp.html)|
-|[Gulp插件](http://gulpjs.com/plugins])|[Gulp不完全入门教程](http://www.ido321.com/1622.html)|
-|[Gulp 入门指南](https://github.com/nimojs/gulp-book)||
+| Gulp | Article | Gulp |Article|
+ :-------------: |:-------------:| :-------------:| :-------------:
+[Gulp Demo](https://github.com/wLove-c/gulp-study) |[Gulp 文章](https://juejin.im/post/5d08a9fbe51d4510774a886c) |*|*
+| **Gulp** | **Reference** | **Gulp** |**Reference** | 
+[Gulp官网](http://gulpjs.com)|[Gulp中文网](http://www.gulpjs.com.cn)|[Gulp资料收集](https://github.com/Platform-CUF/use-gulp)|[Gulp：任务自动管理工具 - ruanyifeng](http://javascript.ruanyifeng.com/tool/gulp.html)
+[Gulp插件](http://gulpjs.com/plugins])|[Gulp不完全入门教程](http://www.ido321.com/1622.html)|[Gulp 入门指南](https://github.com/nimojs/gulp-book)|*
 
 
 ## Javascript
