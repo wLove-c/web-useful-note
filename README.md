@@ -207,6 +207,12 @@ Article | Article | Angular文档 |Article | Article
 [百度前端规范](http://coderlmn.github.io/code-standards)|[JavaScript风格指南/编码规范（Airbnb公司版）](http://blog.jobbole.com/79484)|[网易前端开发规范](http://nec.netease.com/standard)|[前端规范资源列表](https://github.com/ecomfe/spec)
 [Web 前端开发规范文档](http://codecloud.net/5622.html)|*|*|*
 
+## 小程序开发
+| 文档 | 相关 | api |
+:-------------:| :-------------:| :-------------:
+[小程序类原生APP下一条无限刷](https://developers.weixin.qq.com/community/develop/article/doc/0000645ae8cf882129c8b471951c13)
+
+
 
 ## 前端网站
 | Reference | Reference | Reference | Reference |
