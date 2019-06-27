@@ -15,6 +15,15 @@ HTML | HTML | HTML
 :-: | :-: | :-: 
 [HTML5有哪些让你惊艳的demo](http://www.zhihu.com/question/24398907) | [Wallpaperbetter](http://www.wallpaperbetter.com/) | [W3cSchool HTML](http://www.w3school.com.cn/html/index.asp)
 
+## 小程序开发
+| 文档 | 相关 | api |
+:-------------:| :-------------:| :-------------:
+[小程序类原生APP下一条无限刷](https://developers.weixin.qq.com/community/develop/article/doc/0000645ae8cf882129c8b471951c13)|[小程序开发文档](https://developers.weixin.qq.com/miniprogram/dev/framework/quickstart/#%E5%B0%8F%E7%A8%8B%E5%BA%8F%E7%AE%80%E4%BB%8B)|[小程序api](https://developers.weixin.qq.com/miniprogram/dev/api/)
+[微信公众平台](https://mp.weixin.qq.com/wiki?t=resource/res_main&id=mp1465199793_BqlKA)|[小程序开发组件](https://developers.weixin.qq.com/miniprogram/dev/component/)|[wepy](https://tencent.github.io/wepy/index.html)
+[mpvue](http://mpvue.com/)|[taro](https://taro.aotu.io/)|[uniapp](https://uniapp.dcloud.io/)
+
+
+
 ## Angular
 Article | Article | Angular文档 |Article | Article
 :-------------: |:-------------:| :-------------:| :-------------:| :----------:
@@ -206,12 +215,6 @@ Article | Article | Angular文档 |Article | Article
 [AMD与CMD规范的区别](http://www.zhihu.com/question/20351507)|[AMD与CMD规范的区别](http://www.cnblogs.com/tugenhua0707/p/3507957.html)|[KISSY 源码规范](http://docs.kissyui.com/1.4/docs/html/tutorials/style-guide/kissy-source-style.html)|[前端代码规范及最佳实践](http://blog.jobbole.com/79075)
 [百度前端规范](http://coderlmn.github.io/code-standards)|[JavaScript风格指南/编码规范（Airbnb公司版）](http://blog.jobbole.com/79484)|[网易前端开发规范](http://nec.netease.com/standard)|[前端规范资源列表](https://github.com/ecomfe/spec)
 [Web 前端开发规范文档](http://codecloud.net/5622.html)|*|*|*
-
-## 小程序开发
-| 文档 | 相关 | api |
-:-------------:| :-------------:| :-------------:
-[小程序类原生APP下一条无限刷](https://developers.weixin.qq.com/community/develop/article/doc/0000645ae8cf882129c8b471951c13)
-
 
 
 ## 前端网站
