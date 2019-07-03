@@ -113,7 +113,7 @@ Article | Article | Angular文档 |Article | Article
 [sessionStorage和localStorage](https://wscats.github.io/angular-demo/sessionStoragelocalStorage.html)|[像素帧动画](https://wscats.github.io/angular-demo/像素动画.html)|*|*
 **Reference** | **Reference** |**Reference**|**Reference**
 [JavaScript中的this陷阱的最全收集--没有之一](https://segmentfault.com/a/1190000002640298)|[JS函数式编程指南](https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/ch1.html)|[JavaScript Promise迷你书（中文版）](http://liubin.github.io/promises-book)|[阮一峰 Javascript](http://javascript.ruanyifeng.com)
-[前端 TOP 100](https://www.awesomes.cn/rank)|[小白的零基础JavaScript全栈教程](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)|*|*
+[前端 TOP 100](https://www.awesomes.cn/rank)|[小白的零基础JavaScript全栈教程](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)|[数组的一些方法](https://juejin.im/post/5d15e58ce51d45775e33f5a1)|*
 
 ## UI
 | UI框架收录 | UI框架收录  |UI框架收录 |UI框架收录|
