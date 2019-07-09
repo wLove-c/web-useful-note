@@ -71,7 +71,7 @@ Article | Article | Angular文档 |Article | Article
 [轻松入门React和Webpack](https://segmentfault.com/a/1190000002767365) | [React中文索引](http://nav.react-china.org/#docs) |[Redux 中文文档](http://cn.redux.js.org/) | [React Router官方文档中文翻译](https://github.com/react-guide/react-router-cn)
 [React入门教程](http://www.cnblogs.com/kunyashaw/p/5619256.html) | [React介绍及实践教程](http://www.ibm.com/developerworks/cn/web/1509_dongyue_react/index.html) | [React.js 官方网址](https://facebook.github.io/react/index.html)|[React.js 官方文档](https://facebook.github.io/react/docs/getting-started.html)
 [React.js material UI](http://material-ui.com/#) | [React.js TouchstoneJS UI](http://touchstonejs.io)|[React.js amazeui UI](http://amazeui.org/react) | [React 入门实例教程 - 阮一峰](http://www.ruanyifeng.com/blog/2015/03/react.html)
-[React Native 中文版](http://wiki.jikexueyuan.com/project/react-native) | [Webpack 和 React 小书 - gitbook](https://fakefish.github.io/react-webpack-cookbook)| * | *
+[React Native 中文版](http://wiki.jikexueyuan.com/project/react-native) | [Webpack 和 React 小书 - gitbook](https://fakefish.github.io/react-webpack-cookbook)| [immerjs的作用及源码解释](https://juejin.im/post/5aaf6d596fb9a028d207be00) | *
 
 ## Vue
 | Vue |AppDemo | Demo | Demo |
