@@ -6,7 +6,7 @@
 [lessDemo的less文件](https://wscats.github.io/angular-demo/stylesheets/styles.less)| * | * | * 
  **Reference** | **Reference** | **Reference** | **Reference** 
  [CSS 语法参考](http://tympanus.net/codrops/css_reference) | [CSS3动画手册](http://isux.tencent.com/css3/index.html) | [腾讯css3动画制作工具](http://isux.tencent.com/css3/tools.html) | [animate.css](http://daneden.github.io/animate.css)
- [Animated Books with CSS 3D Transforms](http://tympanus.net/Development/AnimatedBooks/) | [Browserhacks](http://browserhacks.com/)| * | *
+ [Animated Books with CSS 3D Transforms](http://tympanus.net/Development/AnimatedBooks/) | [Browserhacks](http://browserhacks.com/)|[css常见布局](https://www.jianshu.com/p/81ef7e7094e8)| [css3的高级使用](https://juejin.im/post/5d2716ab5188257b775d35ba)
 
 
 
